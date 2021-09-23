@@ -1,4 +1,4 @@
-# Practice Programs in Typescript
+# Arbitrary Typescript
 
 <table>
   <tr>
