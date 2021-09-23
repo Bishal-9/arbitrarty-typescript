@@ -10,8 +10,10 @@ let sum: number = 0
 
 for (let i: number = 3; i < 1000; i++) {
 
+    // * Checking for multiple of 3 or 5
     if (i % 3 === 0 || i % 5 === 0) {
 
+        // * Adding that value
         sum += i
     }
 }
