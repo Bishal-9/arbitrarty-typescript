@@ -13,4 +13,8 @@
     <td><a href="https://github.com/Bishal-9/arbitrarty-typescript/blob/main/src/b.ts">b.ts</a></td>
     <td>Even Fibonacci numbers</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Bishal-9/arbitrarty-typescript/blob/main/src/c.ts">c.ts</a></td>
+    <td>Largest prime factor</td>
+  </tr>
 </table>
