@@ -17,4 +17,8 @@
     <td><a href="https://github.com/Bishal-9/arbitrarty-typescript/blob/main/src/c.ts">c.ts</a></td>
     <td>Largest prime factor</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Bishal-9/arbitrarty-typescript/blob/main/src/d.ts">d.ts</a></td>
+    <td>Largest palindrome product</td>
+  </tr>
 </table>
