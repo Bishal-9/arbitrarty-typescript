@@ -29,4 +29,8 @@
     <td><a href="https://github.com/Bishal-9/arbitrarty-typescript/blob/main/src/f.ts">f.ts</a></td>
     <td>Sum square difference</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Bishal-9/arbitrarty-typescript/blob/main/src/g.ts">g.ts</a></td>
+    <td>10001st prime</td>
+  </tr>
 </table>
