@@ -25,4 +25,8 @@
     <td><a href="https://github.com/Bishal-9/arbitrarty-typescript/blob/main/src/e.ts">e.ts</a></td>
     <td>Smallest multiple</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Bishal-9/arbitrarty-typescript/blob/main/src/f.ts">f.ts</a></td>
+    <td>Sum square difference</td>
+  </tr>
 </table>
