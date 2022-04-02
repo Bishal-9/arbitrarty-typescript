@@ -21,4 +21,8 @@
     <td><a href="https://github.com/Bishal-9/arbitrarty-typescript/blob/main/src/d.ts">d.ts</a></td>
     <td>Largest palindrome product</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Bishal-9/arbitrarty-typescript/blob/main/src/e.ts">e.ts</a></td>
+    <td>Smallest multiple</td>
+  </tr>
 </table>
