@@ -33,4 +33,8 @@
     <td><a href="https://github.com/Bishal-9/arbitrarty-typescript/blob/main/src/g.ts">g.ts</a></td>
     <td>10001st prime</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Bishal-9/arbitrarty-typescript/blob/main/src/h.ts">h.ts</a></td>
+    <td>Largest product in a series</td>
+  </tr>
 </table>
