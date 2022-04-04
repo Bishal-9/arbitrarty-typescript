@@ -41,4 +41,8 @@
     <td><a href="https://github.com/Bishal-9/arbitrarty-typescript/blob/main/src/i.ts">i.ts</a></td>
     <td>Special Pythagorean triplet</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Bishal-9/arbitrarty-typescript/blob/main/src/j.ts">j.ts</a></td>
+    <td>Summation of primes</td>
+  </tr>
 </table>
